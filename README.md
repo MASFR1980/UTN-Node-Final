@@ -73,7 +73,7 @@ cd backend
 npm install
 npm run dev
 ```
-Dependencias utilzadas: Mongoose y Zod
+Dependencias utilizadas: Mongoose y Zod
 
 ### Frontend
 
