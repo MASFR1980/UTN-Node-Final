@@ -73,6 +73,7 @@ cd backend
 npm install
 npm run dev
 ```
+Dependencias utilzadas: Mongoose y Zod
 
 ### Frontend
 
@@ -81,6 +82,8 @@ cd frontend
 npm install
 npm start
 ```
+
+Dependencias utilizadas: React-Router-Dom / Axios / React-icons / react-toastify
 
 > Los puertos donde funciona la aplicación pueden ser definidos en el archivo de configuracion .env; asi como tambien la clave de la encriptación.
 
