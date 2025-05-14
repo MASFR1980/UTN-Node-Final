@@ -91,3 +91,5 @@ const EditSupplier = () => {
     </div>
   );
 };
+
+export default EditSupplier;
