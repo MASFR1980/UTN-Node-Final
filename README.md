@@ -100,7 +100,7 @@ Se utilizan dos colecciones principales:
 
 ## 🔮 Posibles Mejoras Futuras
 
-Se planea incorporar un sistema de roles y permisos, para permitir que algunos usuarios solo puedan consultar proveedores, mientras que otros con mayor nivel puedan editarlos, agregarlos o eliminarlos.
+Se planea incorporar un sistema de roles y permisos, para permitir que algunos usuarios solo puedan consultar proveedores, mientras que otros con mayor nivel puedan editarlos, agregarlos o eliminarlos. Tambien se deben agregar validacione en el ingreso y modificación de los datos (CUIT que tenga 11 numeros, que el mail tenga @ y ., que los rubros esten en una lista desplegable). Actualmente las unicas validaciones es que se llenen todos los campos y que el mail incluya la @.
 
 ---
 
