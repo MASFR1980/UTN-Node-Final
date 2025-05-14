@@ -1,3 +1,8 @@
+import { useParams } from "react-router-dom";
+import { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
+import { API } from "../api/apiInstance";
+
 const EditSupplier = () => {
   const { supplierId } = useParams(); // Obtenemos el ID del proveedor de la URL
   const [supplier, setSupplier] = useState(null);
